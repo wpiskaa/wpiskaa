@@ -34,10 +34,6 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/wpiskaa/wpiskaa/stats-output/stats.svg" alt="Stats Card" />
   <img src="https://raw.githubusercontent.com/wpiskaa/wpiskaa/languages-output/languages.svg" alt="Languages Card" />
-</div>
-
-<div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wpiskaa&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
