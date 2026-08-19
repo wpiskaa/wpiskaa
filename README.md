@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,40:2d6a4f,70:52b788,100:74c69d&height=200&section=header&text=Hafiz%20Kurniawan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Engineering%20%7C%20Universitas%20Muhammadiyah%20Yogyakarta&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,40:2d6a4f,70:52b788,100:74c69d&height=200&section=header&text=Hafiz%20Kurniawan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Student%20%7C%20Software%20%26%20Web%20Developer&descAlignY=58&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=52B788&center=true&vCenter=true&width=500&lines=🍃+Welcome+to+my+digital+garden+✨;Crafting+ideas+into+clean+code+💻;Every+error+is+a+step+forward!+🌱;Studio+Ghibli+%26+Lo-Fi+enthusiast+☕" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=52B788&center=true&vCenter=true&width=520&lines=🍃+Welcome+to+my+digital+space+✨;Informatics+Student+%7C+Developer+💻;Crafting+ideas+into+clean+code+🚀;Every+error+is+a+step+forward!+🌱" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,13 +15,12 @@
     <td width="55%" valign="top">
       <h3>🌿 About Me</h3>
       <p>
-        Halo! Saya <b>Hafiz Kurniawan</b>, mahasiswa Teknik Informatika di <b>Universitas Muhammadiyah Yogyakarta</b>. Tertarik mendalami Software Development, Web Technologies, dan eksplorasi problem solving melalui baris kode.
+        Halo! Saya <b>Hafiz Kurniawan</b>, seorang mahasiswa Informatika yang antusias dalam <b>Software Engineering</b> dan <b>Web Development</b>. Gemar mengeksplorasi teknologi baru, memecahkan masalah dengan kode yang efisien, dan membangun antarmuka web yang interaktif.
       </p>
       <ul>
-        <li>🎓 <b>Kampus:</b> Universitas Muhammadiyah Yogyakarta</li>
-        <li>💻 <b>Fokus:</b> C++, Web Development, Modern UI/UX</li>
+        <li>💻 <b>Fokus:</b> C++, Modern JavaScript, Frontend & Backend</li>
         <li>🌱 <b>Motto:</b> <i>"Setiap error adalah langkah kecil menuju kesempurnaan."</i></li>
-        <li>☕ <b>Vibes:</b> Code, Coffee, Studio Ghibli & Lo-Fi Beats</li>
+        <li>☕ <b>Minat:</b> Clean Architecture, Gaming, Lo-Fi & Coffee</li>
       </ul>
       <br />
       <div>
@@ -37,7 +36,7 @@
       </div>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/wpiskaa/wpiskaa/main/assets/ghibli_banner.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
+      <img src="https://raw.githubusercontent.com/wpiskaa/wpiskaa/main/assets/banner.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
     </td>
   </tr>
 </table>
@@ -103,6 +102,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74c69d,40:52b788,70:2d6a4f,100:1b4332&height=120&section=footer" width="100%" />
   <p align="center">
-    <sub>🍃 <i>"Always keep coding, learning, and dreaming."</i> — Crafted with 💚 by <a href="https://github.com/wpiskaa">@wpiskaa</a></sub>
+    <sub>🍃 <i>"Every error is a step toward perfection."</i> — Crafted with 💚 by <a href="https://github.com/wpiskaa">@wpiskaa</a></sub>
   </p>
 </div>
