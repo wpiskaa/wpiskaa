@@ -1,54 +1,45 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,40:2d6a4f,70:52b788,100:74c69d&height=200&section=header&text=Hafiz%20Kurniawan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Student%20%7C%20Software%20%26%20Web%20Developer&descAlignY=58&descAlign=50" width="100%" />
+  <img src="https://raw.githubusercontent.com/wpiskaa/wpiskaa/main/assets/banner.jpg" width="100%" style="border-radius: 12px; max-height: 380px; object-fit: cover;" alt="Landscape Banner" />
+  
+  <br /><br />
+
+  <h1>Hi there, I'm Hafiz Kurniawan 👋</h1>
+  <h3>✨ Informatics Engineering | Software & Web Developer ✨</h3>
+
+  <p>
+    <em>"Setiap error adalah langkah kecil menuju kesempurnaan."</em>
+  </p>
+
+  <p>
+    <a href="https://instagram.com/hafizzkrnwn" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-@hafizzkrnwn-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="mailto:hafizzkurniawan19@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-hafizzkurniawan19-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/wpiskaa">
+      <img src="https://img.shields.io/badge/GitHub-wpiskaa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=52B788&center=true&vCenter=true&width=520&lines=🍃+Welcome+to+my+digital+space+✨;Informatics+Student+%7C+Developer+💻;Crafting+ideas+into+clean+code+🚀;Every+error+is+a+step+forward!+🌱" alt="Typing SVG" />
-  </a>
-</div>
+<hr />
+
+### 🌿 About Me
+
+- 🎓 **Education:** Informatics Engineering
+- 💻 **Focus Area:** Software Engineering, Web Development & Problem Solving
+- 🌱 **Tech Stack:** C++, JavaScript, TypeScript, React & Modern Web Tools
+- ☕ **Passions:** Clean Code, Gaming, Lo-Fi Vibes & Continuous Learning
 
 <br />
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🌿 About Me</h3>
-      <p>
-        Halo! Saya <b>Hafiz Kurniawan</b>, seorang mahasiswa Informatika yang antusias dalam <b>Software Engineering</b> dan <b>Web Development</b>. Gemar mengeksplorasi teknologi baru, memecahkan masalah dengan kode yang efisien, dan membangun antarmuka web yang interaktif.
-      </p>
-      <ul>
-        <li>💻 <b>Fokus:</b> C++, Modern JavaScript, Frontend & Backend</li>
-        <li>🌱 <b>Motto:</b> <i>"Setiap error adalah langkah kecil menuju kesempurnaan."</i></li>
-        <li>☕ <b>Minat:</b> Clean Architecture, Gaming, Lo-Fi & Coffee</li>
-      </ul>
-      <br />
-      <div>
-        <a href="https://instagram.com/hafizzkrnwn" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-        </a>
-        <a href="mailto:hafizzkurniawan19@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-        </a>
-        <a href="https://github.com/wpiskaa">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-        </a>
-      </div>
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/wpiskaa/wpiskaa/main/assets/banner.jpg" width="100%" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" />
-    </td>
-  </tr>
-</table>
-
-<br />
-
-### 🛠️ Tech Stack & Weapons
+### 🛠️ Tech Stack & Arsenal
 
 <table>
   <tr>
     <td align="center" width="33%"><b>💻 Languages</b></td>
-    <td align="center" width="33%"><b>⚛️ Frontend & Frameworks</b></td>
+    <td align="center" width="33%"><b>⚛️ Frameworks & Web</b></td>
     <td align="center" width="33%"><b>🧰 Tools & Environment</b></td>
   </tr>
   <tr>
@@ -97,11 +88,10 @@
   </tr>
 </table>
 
-<br />
+<hr />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74c69d,40:52b788,70:2d6a4f,100:1b4332&height=120&section=footer" width="100%" />
-  <p align="center">
+  <p>
     <sub>🍃 <i>"Every error is a step toward perfection."</i> — Crafted with 💚 by <a href="https://github.com/wpiskaa">@wpiskaa</a></sub>
   </p>
 </div>
